@@ -26,3 +26,8 @@ La comunicación con este dispositivo es del tipo serie de dos hilos: una línea
 |-----------------------------|
 | Temporizadores programables |
 | Display de temperatura      |
+
+# EN USO
+
+![uso](https://user-images.githubusercontent.com/79546666/191899555-50453c6e-f19e-4e73-80cb-0084cc453dc4.jpg)
+
