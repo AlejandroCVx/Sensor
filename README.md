@@ -19,3 +19,10 @@ La comunicación con este dispositivo es del tipo serie de dos hilos: una línea
 | DIO | Es un pin de E/S de datos.           |
 | VCC | Pin que suministra energia al modulo |
 | GND | Es un pin de tierra                  |
+
+![subtitle](https://user-images.githubusercontent.com/79546666/191898951-403e2987-735f-46b2-9a44-c6614520fdba.png)
+
+| Reloj de tiempo real        |
+|-----------------------------|
+| Temporizadores programables |
+| Display de temperatura      |
