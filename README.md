@@ -12,12 +12,13 @@ La comunicación con este dispositivo es del tipo serie de dos hilos: una línea
 ![TM1637-4-Digit-7-Segment-Display-Module-Pinout](https://user-images.githubusercontent.com/79546666/191896882-9b70b962-07fd-445c-82c0-90b9729c0af6.png)
 
 ![subtitulo](https://user-images.githubusercontent.com/79546666/191897090-7d1fe77f-f037-4e15-92c7-ffdfc6d50c6d.png)
-+-----+--------------------------------------+
-| CDK | Es un pin de entrada de reloj.       |
-+=====+======================================+
-| DIO | Es un pin de E/S de datos.           |
-+-----+--------------------------------------+
-| VCC | Pin que suministra energia al modulo |
-+-----+--------------------------------------+
-| GND | Es un pin de tierra                  |
-+-----+--------------------------------------+
+
+╔═════╦══════════════════════════════════════╗
+║ CDK ║ Es un pin de entrada de reloj.       ║
+╠═════╬══════════════════════════════════════╣
+║ DIO ║ Es un pin de E/S de datos.           ║
+╠═════╬══════════════════════════════════════╣
+║ VCC ║ Pin que suministra energia al modulo ║
+╠═════╬══════════════════════════════════════╣
+║ GND ║ Es un pin de tierra                  ║
+╚═════╩══════════════════════════════════════╝
